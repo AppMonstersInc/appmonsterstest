@@ -1,5 +1,15 @@
 
 
+
+import java.util.Arrays;
+
+public class Testing {
+    public static void main(String[] args) {
+        System.out.println("this is a test");
+        System.out.println("this is Elif's test");
+    }
+
+
 public class Testing {
     public static void main(String[] args) {
         System.out.println("this is a test");
@@ -11,6 +21,10 @@ public class Testing {
         System.out.println("HI HI HI");
         System.out.println("Good nigth");
 
+
     }
+<<<<<<< HEAD
+=======
 
 }
+>>>>>>> 7093c7a72853a49689945d1c535a1dcdad4bb756
