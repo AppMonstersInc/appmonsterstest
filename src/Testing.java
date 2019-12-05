@@ -20,11 +20,10 @@ public class Testing {
         System.out.println("Change added to Elena");
         System.out.println("HI HI HI");
         System.out.println("Good nigth");
-
+        System.out.println("this is about slash");
 
     }
-<<<<<<< HEAD
-=======
+
 
 }
->>>>>>> 7093c7a72853a49689945d1c535a1dcdad4bb756
+
